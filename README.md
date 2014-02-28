@@ -5,6 +5,15 @@ A `fortune` file filled with quotes from T.S. Eliot! Some of them are just quote
 
 `fortune` is a program, usually found on Unix-type systems, that picks a quote at random and writes it out to your terminal. People use it to fancify their login process, and you can too!
 
+When you open a terminal, it could look like this:
+
+    We shall not cease from exploration, and the end of all our
+    exploring will be to arrive where we started and know the
+    place for the first time.
+            -- T.S. Eliot
+
+    embeepy%
+
 
 Installing
 ----------
