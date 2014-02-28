@@ -13,7 +13,7 @@ You'll need `fortune` installed on your system. It is already included with most
 
     brew install fortune
 
-Hopefully, we can do everything automagically. Just run the following:
+Hopefully, we can do the rest automagically. Just run the following (in the directory that you cloned from this git repository!):
 
     make install
 
