@@ -23,6 +23,10 @@ Now you should be able to run:
 
 And get a T.S. Eliot quote every time! If you run it with no arguments (just `fortune`) you will get T.S. Eliot in the mix just sometimes.
 
+
+Running `fortune` at login in bash
+------------------------------
+
 If you want to have `fortune` run when you log in, and you're using `bash` (quite likely if you haven't chosen a shell), open `~/.bashrc` and add the following line:
 
     fortune
