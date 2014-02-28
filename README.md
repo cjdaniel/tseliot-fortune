@@ -27,4 +27,8 @@ If you want to have `fortune` run when you log in, and you're using `bash` (quit
 
     fortune
 
-Or, if you want just T.S. Eliot quotes, add `tseliot` on the end of that same line.
+Or, if you want just T.S. Eliot quotes, add the following line:
+
+    fortune tseliot
+
+That's it! Have fun.
