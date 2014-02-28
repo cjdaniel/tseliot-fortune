@@ -9,7 +9,7 @@ A `fortune` file filled with quotes from T.S. Eliot! Some of them are just quote
 Installing
 ----------
 
-You'll need `fortune` installed on your system. I'll let you work that out, but it is already installed on lots of systems. It's not included with Mac OS X, so I recommend you get Homebrew (http://brew.sh/), and then install it by typing:
+You'll need `fortune` installed on your system. It is already included with most Linux distributions. If you're using one of those and you don't have it, you'll have to figure it out on your own. `fortune` isn't included with Mac OS X, so I recommend you get Homebrew (http://brew.sh/), and then install it by typing:
 
     brew install fortune
 
